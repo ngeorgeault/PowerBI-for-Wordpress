@@ -1,6 +1,6 @@
 # For each needed persona, define caracteristics following this template:
 
-1.  Name of the persona - Mandatory
+1.  Name of the persona - Mandatory </b>
     Job title
       Key information about their company (size, type, etc.)
       Details about their role
